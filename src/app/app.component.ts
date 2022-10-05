@@ -1,5 +1,4 @@
-import { Component } from '@angular/core';
-const dataJson = require('../../jsonviewer.json') ;
+import { Component, OnInit } from '@angular/core';
 
 @Component({
     selector: 'my-app',
@@ -7,6 +6,6 @@ const dataJson = require('../../jsonviewer.json') ;
     styleUrls: ['./app.sass']
 })
 export class AppComponent {
-    name = 'User';
-    dataJson = dataJson;
+    
+    
 }
