@@ -1,24 +1,3 @@
-// import { NgModule }      from '@angular/core';
-// import { BrowserModule } from '@angular/platform-browser';
-
-// import {Routes, RouterModule} from '@angular/router';
-
-
-// import { AppComponent }   from './app.component';
-// import { AppTabs }   from './app.tabs';
-
-
-// const appRoutes: Routes =[
-//     { path: '', component: AppTabs}
-// ];
-
-// @NgModule({
-//     imports:      [ BrowserModule, RouterModule.forRoot(appRoutes) ],
-//     declarations: [ AppComponent ],
-//     bootstrap:    [ AppComponent ]
-// })
-// export class AppModule { }
-
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
